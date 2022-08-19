@@ -25,7 +25,7 @@ spring:
     active: druid
   redis:
     # 地址
-    host: 101.34.155.132
+    host: 127.0.0.1
     # 端口，默认为6379
     port: 6379
     # 数据库索引
