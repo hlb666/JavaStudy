@@ -1,6 +1,6 @@
-package com.example.studydemo.notify;
+package com.example.studydemo.common.notify;
 
-import com.example.studydemo.notify.event.DeleteUser;
+import com.example.studydemo.common.notify.event.DeleteUser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;

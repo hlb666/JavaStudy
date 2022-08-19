@@ -1,6 +1,6 @@
-package com.example.studydemo.notify.listener;
+package com.example.studydemo.common.notify.listener;
 
-import com.example.studydemo.notify.event.DeleteUser;
+import com.example.studydemo.common.notify.event.DeleteUser;
 import org.jetbrains.annotations.NotNull;
 import org.springframework.context.ApplicationListener;
 import org.springframework.stereotype.Component;

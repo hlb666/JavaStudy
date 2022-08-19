@@ -1,4 +1,4 @@
-package com.example.studydemo.notify.event;
+package com.example.studydemo.common.notify.event;
 
 
 import com.example.studydemo.domain.User;

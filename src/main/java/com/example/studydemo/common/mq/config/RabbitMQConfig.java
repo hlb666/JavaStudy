@@ -1,4 +1,4 @@
-package com.example.studydemo.mq.config;
+package com.example.studydemo.common.mq.config;
 
 
 

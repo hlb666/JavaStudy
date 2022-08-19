@@ -1,9 +1,8 @@
-package com.example.studydemo.mq.provider;
+package com.example.studydemo.common.mq.provider;
 
 
-import com.example.studydemo.mq.config.RabbitMQConfig;
+import com.example.studydemo.common.mq.config.RabbitMQConfig;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

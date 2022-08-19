@@ -1,8 +1,7 @@
-package com.example.studydemo.mq.consumer;
+package com.example.studydemo.common.mq.consumer;
 
 
-import com.example.studydemo.mq.config.RabbitMQConfig;
-import org.springframework.amqp.core.Message;
+import com.example.studydemo.common.mq.config.RabbitMQConfig;
 import org.springframework.amqp.rabbit.annotation.Queue;
 import org.springframework.amqp.rabbit.annotation.RabbitHandler;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
